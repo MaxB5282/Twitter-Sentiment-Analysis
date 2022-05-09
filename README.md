@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 When I sat down to work on a Sentiment Analysis project I pondered what might be a good topic to analyze. A couple days prior to this the Roe v. Wade case made headlines as congress looked to potentially overturn their previous decision.
 
@@ -6,7 +6,7 @@ The previous decesion was that the United States gave woman liberty to choose to
 
 I wanted to see what twitter had to say about this.
 
-#Insights
+# Insights
 
 For my sentiment analysis I used 2 different natural language proccessors. This way I could compare and contrast results to come up with a better story.
 
