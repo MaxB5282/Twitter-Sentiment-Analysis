@@ -8,7 +8,7 @@ I wanted to see what twitter had to say about this.
 
 # Insights
 
-For my sentiment analysis I used 2 different natural language proccessors. This way I could compare and contrast results to come up with a better story.
+For my sentiment analysis I used 2 different natural language proccessors(TextBlob and NaiveBayesAnalyzer). This way I could compare and contrast results to come up with a better story.
 
 Both of these NLP's gave similiar results when I fed them multiple streams of tweets, however I like Textblobs analyzer a little more as it allows tweet sentiment to fall under a 'Nuetral' category
 
